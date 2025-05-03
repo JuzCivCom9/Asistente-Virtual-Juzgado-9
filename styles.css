@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Segoe UI', Helvetica, sans-serif;
+    background: #f4f4f4;
+    color: #002d5a;
+    padding: 20px;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.logo {
+    max-height: 100px;
+}
+.bienvenida {
+    font-size: 16px;
+}
+input#search {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+}
+ul#suggestions {
+    list-style: none;
+    padding: 0;
+    margin-top: 5px;
+}
+ul#suggestions li {
+    background: #eee;
+    padding: 8px;
+    margin-bottom: 2px;
+    cursor: pointer;
+}
+#results h3 {
+    margin-top: 20px;
+}

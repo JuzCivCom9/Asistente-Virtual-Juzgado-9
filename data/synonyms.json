@@ -1,0 +1,24 @@
+{
+  "expediente": [
+    "causa",
+    "proceso",
+    "juicio"
+  ],
+  "audiencia": [
+    "vista",
+    "citación"
+  ],
+  "saldo": [
+    "cuenta",
+    "fondos",
+    "dinero"
+  ],
+  "ius": [
+    "unidad",
+    "valor"
+  ],
+  "nacionalización": [
+    "ciudadanía",
+    "naturalización"
+  ]
+}
