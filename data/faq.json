@@ -1,86 +1,86 @@
 [
   {
-    "pregunta": "Pregunta ejemplo 1",
-    "respuesta": "Respuesta correspondiente 1"
+    "pregunta": "¿Dónde funciona el Juzgado Civil y Comercial N° 9?",
+    "respuesta": "Funciona en Avenida Comisionado Indart 2147/57, San Justo, Provincia de Buenos Aires."
   },
   {
-    "pregunta": "Pregunta ejemplo 2",
-    "respuesta": "Respuesta correspondiente 2"
+    "pregunta": "¿Cuál es el horario de atención?",
+    "respuesta": "El horario es de lunes a viernes de 8:00 a 14:00 hs."
   },
   {
-    "pregunta": "Pregunta ejemplo 3",
-    "respuesta": "Respuesta correspondiente 3"
+    "pregunta": "¿Cómo puedo consultar el estado de un expediente?",
+    "respuesta": "Puede consultar el estado del expediente a través de la Mesa de Entradas Virtual provista por SCBA."
   },
   {
-    "pregunta": "Pregunta ejemplo 4",
-    "respuesta": "Respuesta correspondiente 4"
+    "pregunta": "¿Cómo consulto los saldos de una cuenta judicial?",
+    "respuesta": "A través del Portal de Presentaciones y Notificaciones Electrónicas, ingresando a la sección de sus causas y utilizando el botón que indica “ver cuentas bancarias”, tiene acceso al saldo de la misma."
   },
   {
-    "pregunta": "Pregunta ejemplo 5",
-    "respuesta": "Respuesta correspondiente 5"
+    "pregunta": "¿Dónde se puede consultar información sobre las subastas judiciales?",
+    "respuesta": "Las Subastas Judiciales se realizan actualmente de manera electrónica. Toda la información se encuentra en el sitio de la SCBA: https://www.scba.gov.ar/paginas.asp?id=50473"
   },
   {
-    "pregunta": "Pregunta ejemplo 6",
-    "respuesta": "Respuesta correspondiente 6"
+    "pregunta": "¿Dónde se puede consultar el valor actual del IUS?",
+    "respuesta": "En nuestro Instagram publicamos cada actualización, pero también puede consultarse en el sitio oficial de la SCBA: https://www.scba.gov.ar/paginas.asp?id=41320"
   },
   {
-    "pregunta": "Pregunta ejemplo 7",
-    "respuesta": "Respuesta correspondiente 7"
+    "pregunta": "¿Dónde se puede obtener información para abonar la Tasa de Justicia?",
+    "respuesta": "En el instructivo elaborado por la SCBA en: https://www.scba.gov.ar/paginas.asp?id=46791"
   },
   {
-    "pregunta": "Pregunta ejemplo 8",
-    "respuesta": "Respuesta correspondiente 8"
+    "pregunta": "¿Cómo buscar un domicilio electrónico?",
+    "respuesta": "Accediendo al siguiente enlace de la SCBA: https://www.scba.gov.ar/paginas.asp?id=46690"
   },
   {
-    "pregunta": "Pregunta ejemplo 9",
-    "respuesta": "Respuesta correspondiente 9"
+    "pregunta": "¿Dónde se obtienen los códigos de materias para iniciar un expediente?",
+    "respuesta": "En el siguiente enlace: https://www.scba.gov.ar/paginas.asp?id=41329"
   },
   {
-    "pregunta": "Pregunta ejemplo 10",
-    "respuesta": "Respuesta correspondiente 10"
+    "pregunta": "¿Qué requisitos debe tener un Oficio Ley 22.172?",
+    "respuesta": "1) Nombre del Juez: Dr. Rodrigo C. Suárez Della Porta\n2) Nombre de la Secretaria: Dra. María Daniela Marino\n3) Dirección del Juzgado: Avda. Comisionado Indart 2147/57\n4) Competencia del Juzgado\n5) Transcripción del auto ordenatorio\n6) Finalidad del oficio"
   },
   {
-    "pregunta": "Pregunta ejemplo 11",
-    "respuesta": "Respuesta correspondiente 11"
+    "pregunta": "¿Cómo debe confeccionarse una cédula?",
+    "respuesta": "Debe ser clara, precisa, e indicar lo que se ordena notificar textualmente. También debe especificarse el juzgado, carátula y datos del destinatario, incluyendo el domicilio electrónico o postal correspondiente."
   },
   {
-    "pregunta": "Pregunta ejemplo 12",
-    "respuesta": "Respuesta correspondiente 12"
+    "pregunta": "¿Qué documentación debe presentarse para iniciar una sucesión?",
+    "respuesta": "1) Partida de defunción\n2) Partida/s que acrediten el vínculo (matrimonio, nacimiento, etc.)\n3) Último domicilio del causante\n4) Bienes que integran el acervo hereditario\n5) Datos de los herederos"
   },
   {
-    "pregunta": "Pregunta ejemplo 13",
-    "respuesta": "Respuesta correspondiente 13"
+    "pregunta": "¿Puedo consultar expedientes en formato papel?",
+    "respuesta": "No. Este es un Juzgado Digitalizado. El 100% de los expedientes pueden ser consultados de forma virtual."
   },
   {
-    "pregunta": "Pregunta ejemplo 14",
-    "respuesta": "Respuesta correspondiente 14"
+    "pregunta": "Si el acervo hereditario en una sucesión está compuesto por un automotor ¿exigen informe de cesión e inhibición del Registro de la Propiedad Inmueble?",
+    "respuesta": "NO, sólo debe adjuntar el informe expedido por el Registro de la Propiedad Automotor."
   },
   {
-    "pregunta": "Pregunta ejemplo 15",
-    "respuesta": "Respuesta correspondiente 15"
+    "pregunta": "¿Qué valuación fiscal están aceptando con respecto a vehículos automotores municipalizados?",
+    "respuesta": "La valuación utilizada para computar el tributo, o 3 publicaciones de un rodado de idénticas características o la valuación de revistas especializadas en el tema."
   },
   {
-    "pregunta": "Pregunta ejemplo 16",
-    "respuesta": "Respuesta correspondiente 16"
+    "pregunta": "¿Puedo realizar peticiones o aclaraciones de algún escrito por mail?",
+    "respuesta": "NO, la única vía para realizar peticiones y/o aclaraciones es mediante la correspondiente presentación electrónica. Ninguna petición formulada por mail será considerada."
   },
   {
-    "pregunta": "Pregunta ejemplo 17",
-    "respuesta": "Respuesta correspondiente 17"
+    "pregunta": "Envíe un instrumento a confronte, ¿cómo sé si el mismo fue librado?",
+    "respuesta": "Los instrumentos son confrontados desde el Portal de Presentaciones Electrónicas. Si el mismo es observado, el profesional será notificado por dicho medio, no quedando nota en el expediente. De ser librado, sí se dejará la pertinente constancia en el expediente suscripta por funcionario."
   },
   {
-    "pregunta": "Pregunta ejemplo 18",
-    "respuesta": "Respuesta correspondiente 18"
+    "pregunta": "Tengo fijada audiencia virtual pero no me ha llegado el enlace a mi correo electrónico",
+    "respuesta": "Todas las audiencias que son fijadas para ser celebradas en forma total o parcialmente remota tienen su link de ingreso en la providencia que las fija, no se envía el mismo por e-mail, por lo que el día y hora de la audiencia podrá ingresar a la misma buscando el respectivo enlace en la providencia que la fijó, la cual está disponible en la MEV."
   },
   {
-    "pregunta": "Pregunta ejemplo 19",
-    "respuesta": "Respuesta correspondiente 19"
+    "pregunta": "Necesito realizar una consulta sobre un expediente, ¿cómo debo proceder?",
+    "respuesta": "Puede dirigirse personalmente a la Mesa de Entradas del Juzgado o utilizar el servicio SADYP (consulta virtual con atención personalizada mediante la plataforma Zoom, disponible todos los días hábiles de 9 a 13 hs)."
   },
   {
-    "pregunta": "Pregunta ejemplo 20",
-    "respuesta": "Respuesta correspondiente 20"
+    "pregunta": "Ordenaron una libranza judicial de dinero, ¿es necesario que consienta?",
+    "respuesta": "Toda transferencia o giro electrónico de dinero debe consentirse, excepto: 1) sumas dadas en pago, 2) sumas correspondientes a honorarios firmes, 3) sumas que componen acervo hereditario una vez que su inscripción se encuentre firme."
   },
   {
-    "pregunta": "Pregunta ejemplo 21",
-    "respuesta": "Respuesta correspondiente 21"
+    "pregunta": "¿Soy extranjero, puedo realizar el trámite de nacionalización/ciudadanía en el Juzgado?",
+    "respuesta": "No. Dicho trámite debe realizarse ante un Juzgado con competencia Federal. Puede consultar el mismo según la jurisdicción de su domicilio en el siguiente sitio: https://www.pjn.gov.ar/guia"
   }
 ]
